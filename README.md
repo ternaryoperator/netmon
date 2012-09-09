@@ -16,7 +16,11 @@ This remote host can be any system that supports  the following -
 5. ping
 
 It will provide web frontend with notification service 
+
 a. email notification
+
 b. webpage updation
+
 c. remote feed
+
 d. tweets or facebook updates
